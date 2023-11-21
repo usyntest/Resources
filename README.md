@@ -10,4 +10,15 @@
 
 ## Scholarship Info
 - [Scholarship Searching Database](https://www.internationalscholarships.com/scholarships)
-- []
+
+# Development Resources
+
+## Fonts
+- [Gilroy](https://www.fontshmonts.com/text-fonts/gilroy/)
+- [Poppins](https://fonts.google.com/specimen/Poppins)
+
+## UI Design
+- [Color Palette Hunt - Color Hunt](https://colorhunt.co/)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Color Palette Tools - Coolors](https://coolors.co/)
+- [Background Generator](https://superdesigner.co/tools/backgrounds?type=side-wave)
