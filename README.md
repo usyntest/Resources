@@ -27,3 +27,6 @@
 
 ## Video Lectures
 - [Mega link for large directory of online courses](https://mega.nz/folder/boYFiITJ#KbVi9224qfH4qJxhjaawZg/folder/H45nAYYB)
+
+## Books and Notes
+- [Andrew Ng's machine learning courese notes](https://www.holehouse.org/mlclass/)
