@@ -22,3 +22,8 @@
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 - [Color Palette Tools - Coolors](https://coolors.co/)
 - [Background Generator](https://superdesigner.co/tools/backgrounds?type=side-wave)
+
+# Academic Resources
+
+## Video Lectures
+- [Mega link for large directory of online courses](https://mega.nz/folder/boYFiITJ#KbVi9224qfH4qJxhjaawZg/folder/H45nAYYB)
